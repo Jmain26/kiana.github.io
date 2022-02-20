@@ -113,14 +113,7 @@ nav .fa-solid{
   z-index: -1;
 }
 @media(max-width: 700px){
-  .header{
-    min-height: 200vh;
-    width: 100;
-    background-image: linear-gradient(rgba(9,4,30,0.7),rgba(9,4,30,0.7)),url("https://github.com/Jmain26/kiana.github.io/blob/main/image/usada_nousagi.jpg?raw=true");
-    background-position: center;
-    background-size: cover;
-    position: relative;
-  }
+
 
   .text-box h1{
       font-size: 62px;
